@@ -3,7 +3,7 @@ import Nav from "./Nav";
 
 
 function App() {
-  const firstname = "Zvika";
+  const firstname = "Shai";
   const lastname = "brich";
 
   function NumberRangeChecker(num) {
